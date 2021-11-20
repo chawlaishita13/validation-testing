@@ -1,24 +1,13 @@
 [
 	{
-		"repoName": "Requirement-testing",
-		"readmeChecks": "No",
-		"codeOwnerCheck": "No",
-		"nodeModulesCheck": "unknown",
-		"branchPermissionCheck": "unknown",
-		"releasesNodeModulesCheck": "unknown",
+		"repoName": "validation-testing",
+		"readmeChecks": "Yes",
+		"codeOwnerCheck": "Yes",
+		"nodeModulesCheck": "Yes",
+		"branchPermissionCheck": "No",
+		"releasesNodeModulesCheck": "Yes",
 		"vulnerabilityBotCheck": "No",
-		"issueTemplateCheck": "No",
-		"standardLabelsCheck": "No"
-	},
-	{
-		"repoName": "Check-Requirements",
-		"readmeChecks": "No",
-		"codeOwnerCheck": "No",
-		"nodeModulesCheck": "unknown",
-		"branchPermissionCheck": "unknown",
-		"releasesNodeModulesCheck": "unknown",
-		"vulnerabilityBotCheck": "No",
-		"issueTemplateCheck": "No",
+		"issueTemplateCheck": "Yes",
 		"standardLabelsCheck": "No"
 	}
 ]
